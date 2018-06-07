@@ -63,6 +63,7 @@ Marcelo Ferraz | Developer | [https://www.linkedin.com/in/marceloferraz/](https:
 Marcelo dos Anjos | Business Analyst| [https://www.linkedin.com/in/marcelotdosanjos/](https://www.linkedin.com/in/marcelotdosanjos/)
 Marcelo Rebello | Developer | [https://www.linkedin.com/in/marcelo-rebello/](https://www.linkedin.com/in/marcelo-rebello/)
 Marcelo Tamanini | Developer | [https://www.linkedin.com/in/marcelotamanini/](https://www.linkedin.com/in/marcelotamanini/)
+Marcos Louzada | Project Manager/Developer | [https://www.linkedin.com/in/marcoslouzada/] (https://www.linkedin.com/in/marcoslouzada/)
 Mariana Wamser | Developer | [https://www.linkedin.com/in/marianawamser/](https://www.linkedin.com/in/marianawamser/)
 Marilia Basso | QA | [https://www.linkedin.com/in/mariliabasso/](https://www.linkedin.com/in/mariliabasso/)
 Mário Aprá | Developer | [https://www.linkedin.com/in/marioapra/](https://www.linkedin.com/in/marioapra/)
